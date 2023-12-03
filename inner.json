@@ -2,11 +2,18 @@
   "download_pylons_app": "Download Pylons app",
   "open_pylons_app": "Open Pylons app",
   "start": "Start",
+  "no_pdf_file": "PDF file not found",
+  "detail": "Detail",
+  "how_many_copies": "How many unique copies?",
+
 
 
 
   "url_launching_error": "Error while launching a URL",
   "size_error": "Size Error",
+  "price_hint": "Select a currency",
+  "hashtag_hint": "Add any category #hashtags",
+  "hashtags": "Hashtags",
 
   "discard": "Discard",
   "next": "Next",
